@@ -2,6 +2,7 @@
 
 - 🙋‍♀️ Transfem nerd with a never-ending stockpile of curiosity :>
 - 💻 Full-stack developer (Angular/Vue - Java/Spring Boot - Docker/K8s - AWS)
+- 🎨 Occasional artist (pixel art, digital painting, vector graphics)
 - 🌍 Somewhere on Sol III ;3
 - 🍰 Huge fan of desserts!
 
